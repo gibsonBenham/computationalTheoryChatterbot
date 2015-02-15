@@ -1,0 +1,7 @@
+c:\users\gbenham1\documents\visual studio 2012\Projects\Chatterbot\Chatterbot\obj\Debug\Chatterbot.csprojResolveAssemblyReference.cache
+c:\users\gbenham1\documents\visual studio 2012\Projects\Chatterbot\Chatterbot\bin\Debug\Chatterbot.dll
+c:\users\gbenham1\documents\visual studio 2012\Projects\Chatterbot\Chatterbot\bin\Debug\Chatterbot.pdb
+c:\users\gbenham1\documents\visual studio 2012\Projects\Chatterbot\Chatterbot\bin\Debug\nunit.framework.dll
+c:\users\gbenham1\documents\visual studio 2012\Projects\Chatterbot\Chatterbot\bin\Debug\nunit.framework.xml
+c:\users\gbenham1\documents\visual studio 2012\Projects\Chatterbot\Chatterbot\obj\Debug\Chatterbot.dll
+c:\users\gbenham1\documents\visual studio 2012\Projects\Chatterbot\Chatterbot\obj\Debug\Chatterbot.pdb
